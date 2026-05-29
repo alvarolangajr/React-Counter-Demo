@@ -1,9 +1,12 @@
 import { CounterProvider } from './CounterContext';
+import Counter from './Counter';
 
 function App() {
   return (
     <CounterProvider>
-      <div>Counter app</div>
+      <main className="app">
+        <Counter onIncrement={() => {}} />
+      </main>
     </CounterProvider>
   );
 }
