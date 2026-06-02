@@ -1,6 +1,6 @@
-# Yendou-Task
+# React Counter Demo
 
-Small TypeScript React app for the Yendou SWE Homework.
+A polished React counter demo with global state, motion, accessibility, and toast feedback.
 
 ## Features
 
